@@ -9,3 +9,5 @@
 #assignment5-2:https://github.com/Bolledlashashank/AIML2024/blob/main/assignment_5_2(2203A51594).py
 
 #assignment6:https://github.com/Bolledlashashank/AIML2024/blob/main/2203A51594_ASS_(6.....).ipynb
+
+#assignment9:https://github.com/Bolledlashashank/AIML2024/blob/main/2203A51594%20%20%20AIML_AS_9.ipynb
